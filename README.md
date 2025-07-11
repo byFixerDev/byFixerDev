@@ -1,4 +1,7 @@
 # ¡Hola soy Fixer!
+## JuniorDev, haciendo cosas de juniorDev;
+
+
 ![Banner](img/02.jpg)
 
 
