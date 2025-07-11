@@ -1,5 +1,7 @@
 # !Hola soy Fixer!
-![Texto Alternativo del Banner](img/02.jpg)
+![Banner](img/02.jpg)
+
+
 Sígueme en mis redes sociales!
 
 * **X (Twitter):** [x.com/Fixer_dev1EW83](https://x.com/Fixer_dev1EW83) 🐦
