@@ -1,11 +1,37 @@
-# ¡Hola soy Fixer!, un JuniorDev, haciendo cosas de juniorDev;
+<p align="center">
+  <img src="img/02.jpg" alt="Banner de FixerDev" width="100%">
+</p>
 
+# ¡Hola, soy Fixer!
+JuniorDev, haciendo cosas de juniorDev;
 
-![Banner](img/02.jpg)
+---
 
+## Sígueme en mis redes sociales
 
-## Sígueme en mis redes sociales!
+<p align="center">
+  <a href="https://x.com/Fixer_dev1EW83" target="_blank" style="text-decoration: none; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
+  </a>
+  <a href="https://instagram.com/fixer.dev_1ew8394" target="_blank" style="text-decoration: none; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.youtube.com/channel/0" target="_blank" style="text-decoration: none; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+</p>
 
-* **X (Twitter):** [x.com/Fixer_dev1EW83](https://x.com/Fixer_dev1EW83) 🐦
-* **Instagram:** [instagram.com/fixer.dev_1ew8394](https://instagram.com/fixer.dev_1ew8394) 📸
-* **YouTube:** [YouTube](https://www.youtube.com/channel/0) 📺
+---
+
+### Sobre mí
+Soy un desarrollador junior apasionado por aprender y crear. Me encanta explorar nuevas tecnologías y resolver problemas con código. Actualmente estoy enfocado en [menciona algo específico, ej. desarrollo web, Python, etc.].
+
+### Proyectos
+* **Proyecto 1:** [Descripción breve del proyecto y enlace si lo tienes](https://github.com/fixerDev/nombre-de-tu-proyecto-1)
+* **Proyecto 2:** [Descripción breve del proyecto y enlace si lo tienes](https://github.com/fixerDev/nombre-de-tu-proyecto-2)
+
+---
+
+<p align="center">
+  <small>¡Gracias por visitar mi perfil!</small>
+</p>
