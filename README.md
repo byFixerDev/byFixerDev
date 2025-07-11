@@ -1,5 +1,5 @@
 # !Hola soy Fixer¡
-[Banner](img/02.jpg)
+![Banner](img/02.jpg)
 
 
 ## Sígueme en mis redes sociales!
