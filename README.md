@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <img src="img/02.jpg" alt="Banner de FixerDev" width="100%">
 </p>
 
@@ -9,7 +9,7 @@ JuniorDev, haciendo cosas de juniorDev;
 
 ## Sígueme en mis redes sociales
 
-<p align="center">
+<p>
   <a href="https://x.com/Fixer_dev1EW83" target="_blank" style="text-decoration: none; margin: 0 10px;">
     <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
   </a>
@@ -27,11 +27,11 @@ JuniorDev, haciendo cosas de juniorDev;
 Soy un desarrollador junior apasionado por aprender y crear. Me encanta explorar nuevas tecnologías y resolver problemas con código. Actualmente estoy enfocado en [menciona algo específico, ej. desarrollo web, Python, etc.].
 
 ### Proyectos
-* **Proyecto 1:** [Descripción breve del proyecto y enlace si lo tienes](https://github.com/fixerDev/nombre-de-tu-proyecto-1)
-* **Proyecto 2:** [Descripción breve del proyecto y enlace si lo tienes](https://github.com/fixerDev/nombre-de-tu-proyecto-2)
+* **Proyecto 1:** [DeepSeek - Maquetación](https://github.com/byFixerDev/01/tree/main/01-DeepSeek)
+* **Proyecto 2:** [ImgToDrawn | Referencias en el navegador](https://github.com/byFixerDev/01/tree/main/02-ImgToDrawn)
 
 ---
 
-<p align="center">
+<p>
   <small>¡Gracias por visitar mi perfil!</small>
 </p>
