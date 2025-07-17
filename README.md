@@ -16,7 +16,7 @@ JuniorDev, haciendo cosas de juniorDev;
   <a href="https://instagram.com/fixer.dev_1ew8394" target="_blank" style="text-decoration: none; margin: 0 10px;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://www.youtube.com/channel/0" target="_blank" style="text-decoration: none; margin: 0 10px;">
+  <a href="https://www.youtube.com/@Fixer.dev_1EW8394" target="_blank" style="text-decoration: none; margin: 0 10px;">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
 </p>
