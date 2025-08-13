@@ -27,8 +27,7 @@ JuniorDev, haciendo cosas de juniorDev;
 Soy un desarrollador junior apasionado por aprender y crear. Me encanta explorar nuevas tecnologías y resolver problemas con código. Actualmente estoy enfocado en [menciona algo específico, ej. desarrollo web, Python, etc.].
 
 ### Proyectos
-* **Proyecto 1:** [DeepSeek | Maquetación](https://github.com/byFixerDev/01/tree/main/01-DeepSeek)
-* **Proyecto 2:** [ImgToDrawn | Referencias en el navegador](https://github.com/byFixerDev/01/tree/main/02-ImgToDrawn)
+Puedes encontrarlos en la carpeta Proyectos
 
 ---
 
